@@ -1,46 +1,8 @@
-# VietType—Bộ gõ tiếng Việt nguồn mở
+# VietType
+- Fork for personal changes.
+  - and possibly adding metadatas for `scoop` packaging.    
+- Root repos : [VietType - dingngtu](https://github.com/dinhngtu/VietType)
+  - I express my greatest thanks for an awesome software like this. This is the most awesome and sleek IME I've ever used for my multi-lingual typing needs.
 
-## VietType là gì?
-VietType là bộ gõ tiếng Việt nguồn mở dành cho Windows 10.
-
-## Tại sao sử dụng VietType?
-- VietType là phần mềm nguồn mở. Bất cứ ai có thể sử dụng, sửa đổi và lưu hành VietType theo Giấy phép Công cộng GNU (GNU GPL).
-- VietType không chứa quảng cáo, các tính năng theo dõi người dùng, mã độc hay phần mềm gián điệp. Bạn có thể kiểm chứng bằng cách xem mã nguồn của VietType.
-- Tôi cung cấp VietType hoàn toàn miễn phí, không vì lợi lộc.
-- VietType sử dụng phương thức nhập liệu có sẵn của Windows nên tương thích với nhiều ứng dụng như Chrome, Skype, HTKK, v.v.
-
-## Tôi tải VietType ở đâu?
-Bạn có thể tải mã nguồn và bộ cài đặt VietType tại [trang GitHub này](https://github.com/dinhngtu/VietType/releases).
-
-### **Lưu ý**:
+# **Lưu ý**:
 Bản quyền © 2018 Đinh Ngọc Tú. **VietType được cung cấp dưới Giấy phép Công cộng GNU phiên bản 3 (GNU GPL v3)**. Nếu bạn lưu hành VietType hay bản sửa đổi của VietType, bạn phải cung cấp kèm theo Giấy phép này cũng như mã nguồn và mọi thay đổi mã nguồn lên VietType. Mọi thay đổi lên VietType đều phải sử dụng cùng giấy phép với VietType (GNU GPL v3).
-
-## Sử dụng VietType như thế nào?
-Chạy file MSI để tiến hành cài đặt. Sau khi cài đặt xong, bạn mở chương trình **VietType Settings** trong thư mục Start. Nhấn *Enable VietType/Bật VietType* để kích hoạt VietType.
-
-VietType sử dụng cách gõ Telex tự do. VietType thể hiện trạng thái trên thanh ngôn ngữ của Windows bằng biểu tượng "hình tròn có dấu chấm" (bật tiếng Việt) hoặc "hình tròn rỗng" (tắt tiếng Việt). Các phím tắt của VietType như sau:
-- Alt-huyền (nút bên trên nút Tab) để bật và tắt VietType;
-- Ctrl (trong lúc gõ từ): Kết thúc từ ngay lập tức;
-- Esc (trong lúc gõ từ): Huỷ bỏ gõ từ, chuyển về phím được gõ ban đầu.
-
-Chương trình VietType Settings cho phép cài đặt lựa chọn của VietType. VietType có những lựa chọn sau:
-- *Vietnamese mode by default/Mặc định bật tiếng Việt:* bật/tắt tiếng Việt khi khởi động máy tính;
-- *Use "oà", "uý" instead of "òa", "úy"/Gõ "oà", "uý" thay vì "òa", "úy:"* lựa chọn cách bỏ dấu cho các vần "oà", "uý", v.v.;
-- *Accept 'd' anywhere/Gõ 'đ' tự do:* cho phép gõ "d" để chuyển "d" -> "đ" tại bất cứ nơi nào trong từ;
-- *Backspaced invalid word stays invalid/Giữ trạng thái sai khi xóa từ sai:* quy định có giữ tiếng Việt khi xóa từ sai hay không;
-- *Reconvert word on Backspace/Chuyển ngược từ khi Backspace:* cho phép sửa từ sau khi đã gõ xong từ đó bằng cách dùng phím Backspace;
-- *Multilingual typing optimization level/Mức tối ưu gõ nhiều ngôn ngữ:* thay đổi phương pháp gõ để phù hợp với người thường xuyên gõ nhiều ngôn ngữ (đặc biệt là tiếng Anh).
-
-## Câu hỏi thường gặp
-- Tại sao VietType ít tính năng vậy? Tại sao VietType không có các tính năng như gõ tắt, chuyển mã, v.v.? \
-Tôi thiết kế VietType để đáp ứng nhu cầu gõ tiếng Việt tối thiểu.
-
-- Tôi có thể sao chép, sửa đổi hay bán lại phần mềm VietType hay không? \
-VietType là phần mềm tự do, bạn có thể cung cấp lại và/hoặc chỉnh sửa nó theo những điều khoản của Giấy phép Công cộng GNU phiên bản 3 do Tổ chức Phần mềm Tự do công bố. \
-Tóm tắt Giấy phép Công cộng GNU (tham khảo tập tin LICENSE đi kèm VietType để biết chính xác các điều khoản):
-  - Bạn được phép sử dụng, sửa đổi và lưu hành VietType và các phiên bản đã sửa đổi của VietType.
-  - Khi lưu hành VietType hay các phiên bản đã sửa đổi của VietType:
-    - Bạn phải đóng gói kèm theo Giấy phép Công cộng GNU và các thông báo giấy phép trong VietType;
-    - Bạn phải cung cấp mã nguồn của VietType và các thay đổi (nếu có);
-    - Bất cứ thay đổi nào lên VietType phải sử dụng cùng một giấy phép với VietType (GNU GPL).
-  - VietType không cung cấp bất cứ bảo hành hay bảo đảm nào. Bạn tự chấp nhận mọi rủi ro và trách nhiệm khi sử dụng VietType.
